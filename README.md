@@ -1,2 +1,2 @@
-# Balmer_Agency_Chatbot
-AI Business Acceleration Discovery Chatbot
+## AI Chatbot
+### Asks questions and determines the AI readiness of a business
